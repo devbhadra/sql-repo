@@ -13,7 +13,7 @@ from pydub import AudioSegment
 import wave,random,json
 from sklearn.feature_extraction.text import TfidfVectorizer
 emotions={
-  '01':'neutral',
+  '01':'neutral' ,
   '02':'calm',
   '03':'happy',
   '04':'sad',
